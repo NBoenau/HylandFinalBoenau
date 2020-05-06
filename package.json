@@ -1,0 +1,24 @@
+{
+  "name": "hylandfinalboenau",
+  "version": "1.0.0",
+  "description": "Boenau Final, Hyland Software",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DalpSkrrt/HylandFinalBoenau.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DalpSkrrt/HylandFinalBoenau/issues"
+  },
+  "homepage": "https://github.com/DalpSkrrt/HylandFinalBoenau#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
